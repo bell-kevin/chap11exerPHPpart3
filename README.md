@@ -51,7 +51,7 @@ Press Submit. In the next image, it shows the error message for insufficient fun
 
  
 
-Submission: Zip all the files required for successful running of the scripts, and include the 4 specified screenshots. Submit the single zip folder.
+Submission: Zip all the files required for successful running of the scripts, and include the 4 specified screenshots. Submit the single zip folder
 
 == We're Using GitHub Under Protest ==
 
