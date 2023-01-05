@@ -30,22 +30,22 @@ You will need to take 4 screenshots, before and after pictures of a good transac
 
 In the first image, it shows the chosen "From" and "To" accounts and the transfer amount BEFORE pressing Submit. Take a screenshot.
 
-ch11-transfer-1.PNG 
+![ch11-transfer-1.PNG](https://github.com/bell-kevin/chap11exerPHPpart3/blob/main/readMePictures/ch11-transfer-1.PNG)
 
 
 Press Submit. In the next image, it shows the "From" and "To" fields returned to the default first row in the database. Select the same accounts chosen before pressing Submit, to compare the balances. Take a screenshot. Here is that result:
 
-ch11-transfer-2.PNG 
+![ch11-transfer-2.PNG](https://github.com/bell-kevin/chap11exerPHPpart3/blob/main/readMePictures/ch11-transfer-2.PNG)
 
 
 In the following image, it shows the chosen "From" and "To" accounts and the transfer amount, which is too large, BEFORE pressing Submit. Take a screenshot.
 
-ch11-transfer-3.PNG
+![ch11-transfer-3.PNG](https://github.com/bell-kevin/chap11exerPHPpart3/blob/main/readMePictures/ch11-transfer-3.PNG)
 
 
 Press Submit. In the next image, it shows the error message for insufficient funds. As above, the From and To fields are the default first row in the database. Select the same accounts that were chosen before pressing submit, to see that the balances have not changed. Take a screenshot.
 
-ch11-transfer-4.PNG  
+![ch11-transfer-4.PNG](https://github.com/bell-kevin/chap11exerPHPpart3/blob/main/readMePictures/ch11-transfer-4.PNG)  
 
  
 
