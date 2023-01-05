@@ -1,5 +1,7 @@
 # chap11exerPHPpart3
 
+Textbook: PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide (5th Edition) Written by Larry Ullman
+
 This chapter has multiple parts, and several need additional information. Read through these instructions, and read Chapter 11 in the textbook as directed.
 
 You will be taking screenshots of your running projects. Make sure to name them to identify the task being demonstrated, and use sequential numbers for multiple screenshots in the same task. For example, name images with task1-1, task1-2 for 2 images in Task 1, task2-1, task2-2, task2-3 for 3 images in Task 2, and so on.
