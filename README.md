@@ -58,7 +58,7 @@ Submission: Zip all the files required for successful running of the scripts, an
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
 proprietary, trade-secret system that is not Free and Open Souce Software
 (FOSS).  We are deeply concerned about using a proprietary system like GitHub
-to develop our FOSS project. I have a [website](https://bellKevin.me) where the
+to develop our FOSS project. I have a [website](https://codeberg.org/kevinbell) where the
 project contributors are actively discussing how we can move away from GitHub
 in the long term.  We urge you to read about the [Give up GitHub](https://GiveUpGitHub.org) campaign 
 from [the Software Freedom Conservancy](https://sfconservancy.org) to understand some of the reasons why GitHub is not 
